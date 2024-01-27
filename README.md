@@ -1,6 +1,8 @@
 # Complete ML System Design with ML Case Studies -
 This repository contains everything you need to become proficient in ML System Design with Case Studies
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 Start here - [ML System Design Case Studies Series](https://bit.ly/3i5EDiH)
 
 
